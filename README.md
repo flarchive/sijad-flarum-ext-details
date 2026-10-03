@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of sijad/flarum-ext-details.** Not for installation: use [Packagist](https://packagist.org/packages/sijad/flarum-ext-details) or the [upstream repository](https://github.com/sijad/flarum-ext-details).
 
-**0** versions archived · Latest: [`0.1.2`](https://github.com/flarchive/sijad-flarum-ext-details/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**3** versions archived · Latest: [`0.1.2`](https://github.com/flarchive/sijad-flarum-ext-details/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2016-06-15 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/sijad-flarum-ext-details/tree/archive/v0.1.0) |
+| `0.1.1` | 2016-06-22 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/sijad-flarum-ext-details/tree/archive/v0.1.1) |
+| `0.1.2` | 2016-07-01 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/sijad-flarum-ext-details/tree/archive/v0.1.2) |
 
 Catalog entry: [packages/sijad-flarum-ext-details.json](https://github.com/flarchive/archive-index/blob/main/packages/sijad-flarum-ext-details.json)
 
